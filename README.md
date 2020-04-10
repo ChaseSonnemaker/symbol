@@ -1,2 +1,2 @@
 # symbol
-Experimentation with the Java Swing class using 2D shapes. Contians two sets of paired programs. Swing and SwingPanel are my attempts at experimenting with 2D animation by changing the shapes, menus, and movements of my Professor's code. Symbol and Symbol panel contain my attempts at using more precision while drawing shapes, refactoring code, and creating random movement. Overall these experiments were enlightening into the intricacies of 2D animation.
+Experimentation with the Java Swing class using 2D shapes. Symbol and Symbol panel contain my attempts at using more precision while drawing shapes, refactoring code, and creating random movement. Overall these experiments were enlightening into the intricacies of 2D animation.
